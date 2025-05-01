@@ -1,4 +1,4 @@
-A RealTime Chat Application
+ChatterBox - A RealTime Chat Application
 
 Features:
 - DaisyUI and Tailwind CSS for UI
